@@ -1,3 +1,10 @@
 *.d
 *.o
 .DS_Store
+*.exe
+*.ilk
+*.pdb
+*.ipch
+*.sdf
+*.suo
+*.lib
